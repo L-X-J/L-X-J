@@ -4,5 +4,6 @@
   <br />
   <br />
   <br />
-  <img src="https://raw.githubusercontent.com/L-X-J/L-X-J/master/activity-profile.png"  alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-X-J&layout=donut"  alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=L-X-J"  alt=""/>
 </div>
